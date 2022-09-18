@@ -1,2 +1,2 @@
 # challenge-1
-First assignment
+First assignment used to test our knowledge of accessibility and css syntax. All code is updated and complete
